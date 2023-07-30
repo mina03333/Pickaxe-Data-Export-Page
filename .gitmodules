@@ -1,0 +1,3 @@
+[submodule "nextjs-blog"]
+	path = nextjs-blog
+	url = https://github.com/mina03333/Pickaxe-Data-Export-Page.git
